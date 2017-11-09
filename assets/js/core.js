@@ -1028,7 +1028,7 @@
                     };
 
                     var map = new google.maps.Map(document.getElementById('google-map'), mapOptions);
-                    var myLatLng = new google.maps.LatLng(28.6234411, 77.0391753);
+                    var myLatLng = new google.maps.LatLng(28.6709924, 77.3257544);
                     var image = {
                         url: 'assets/img/map-marker' + mapMarker + '.png',
                         anchor: new google.maps.Point(19, 59)
